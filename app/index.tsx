@@ -9,7 +9,7 @@ function proximo(){
 export default function Index(){
 return (
 <View style = {style.cointeiner} >
-<Text style = {style.title} >Olá galera</Text>
+<Text style = {style.title} >Olá galerassss</Text>
 <Image source={require('../assets/images/gato.jpg')}
 style = {{width: 150, height: 150}} />
 <Button title="entrar" onPress={proximo}></Button>
